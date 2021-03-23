@@ -1,2 +1,3 @@
 # helloworld
-Repo for hello world
+
+Hi I am Quentin and this is my intro into coding world.
